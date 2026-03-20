@@ -1,0 +1,13 @@
+streamlit
+requests
+pandas
+selenium
+webdriver-manager
+lxml
+google
+opencv-python
+pillow
+numpy
+scikit-image
+beautifulsoup4
+playwright
